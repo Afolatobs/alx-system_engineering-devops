@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x print_working_directory.sh
+echo "Current working directory: $current_dir"
