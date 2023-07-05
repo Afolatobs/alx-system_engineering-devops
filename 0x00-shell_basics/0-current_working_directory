@@ -1,2 +1,2 @@
 #!/bin/bash
-the absolute path name of the current working directory
+chmod +x print_working_directory.sh
