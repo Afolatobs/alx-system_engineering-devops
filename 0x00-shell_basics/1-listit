@@ -1,2 +1,2 @@
-#!/bin/bash
-to  display the contents list of your current directory type the command 'ls'
+##!/bin/bash
+'ls'
