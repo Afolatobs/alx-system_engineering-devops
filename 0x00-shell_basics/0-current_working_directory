@@ -1,2 +1,2 @@
 #!/bin/bash
-current_dir=$(pwd) echo "/tmp/correction/9377794477927256759942697916565531238529_5/205/461331/0x00-shell_basics$current_dir"
+current_dir=$(pwd) echo "/alx-system_engineering-devops/0x00-shell_basics$current_dir"
